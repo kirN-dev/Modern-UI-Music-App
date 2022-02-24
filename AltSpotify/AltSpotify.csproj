@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MVVM\ViewModel\" />
-    <Folder Include="MVVM\Model\" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="107.3.0" />
   </ItemGroup>
 
 </Project>
